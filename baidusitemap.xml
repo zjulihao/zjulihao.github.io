@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/01/21/%E5%91%A8%E8%AE%B02018-01-21/</loc>
+    <lastmod>2018-01-30T14:57:37.031Z</lastmod>
+    <data>
+        <display>
+        <title>周记2018-01-21</title>
+        <pubTime>2018-01-20T16:00:00.000Z</pubTime>
+        
+        <tag>随笔</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/01/28/%E6%89%AB%E9%BB%91%E8%A7%A3%E8%AF%BB/</loc>
     <lastmod>2018-01-28T13:31:06.788Z</lastmod>
     <data>
@@ -33,26 +53,6 @@
         <pubTime>2018-01-23T13:15:56.000Z</pubTime>
         
         <tag>闲趣</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/01/21/%E5%91%A8%E8%AE%B02018-01-21/</loc>
-    <lastmod>2018-01-22T12:51:29.392Z</lastmod>
-    <data>
-        <display>
-        <title>周记2018-01-21</title>
-        <pubTime>2018-01-20T16:00:00.000Z</pubTime>
-        
-        <tag>随笔</tag>
          
          
            
